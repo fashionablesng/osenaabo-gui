@@ -1,0 +1,12 @@
+customtkinter==5.2.2
+pillow==10.4.0
+pywin32==311
+requests==2.32.3
+cryptography==43.0.1
+keyboard==0.13.5
+pygame==2.5.0
+pygetwindow==0.0.9
+pynput==1.7.6
+pytesseract==0.3.10
+numpy==1.26.4
+opencv-python==4.10.0.84
